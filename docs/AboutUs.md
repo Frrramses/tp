@@ -27,7 +27,7 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 [[portfolio](team/misterpuffin.md)]
 
 * Role: Code Monkey
-* Responsibilities: Generate code  
+* Responsibilities: Generate code
 
 ### Zhao Yige
 
@@ -35,15 +35,15 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 
 [[github](http://github.com/frrramses)] [[portfolio](team/frrramses.md)]
 
-* Role: Code Crocodile 
+* Role: Code Crocodile
 * Responsibilities: Random Ideas & Random Codes
 
-### Jean Doe
+### Kang Yue Hern
 
-<img src="images/johndoe.png" width="200px">
+<img src="images/yuehernkang.png" width="200px">
 
-[[github](http://github.com/johndoe)]
-[[portfolio](team/misterpuffin.md)]
+[[github](http://github.com/yuehernkang)]
+[[portfolio](team/yuehernkang.md)]
 
 * Role: Developer
 * Responsibilities: Dev Ops + Threading
